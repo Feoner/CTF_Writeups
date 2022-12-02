@@ -24,7 +24,7 @@
 # CTF
 | Name  | Format | Descriptions | Writeup | 
 | ----- | ------ | ------------ | ------- |
-| Nycon | Root to Boot | Vulnerable Online Store | Writeup |
+| Nycon | Root to Boot | Vulnerable Online Store | [Writeup](https://github.com/Feoner/CTF_Writeups/tree/main/CTF/Nycon#readme)|
 
 
 
