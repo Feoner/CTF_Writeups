@@ -1,6 +1,6 @@
 # CTF
 <p align="center">
-<img src="resources/images/logo.jpg">
+<img src="resources/images/ctf.png">
 <br>
 <i>Writeups Challenges I have solved</i>
 
