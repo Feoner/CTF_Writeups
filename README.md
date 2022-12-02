@@ -1,4 +1,4 @@
-# CTF
+# CTF_Writeups
 <p align="center">
 <img src="resources/ctf.png">
 <br>
