@@ -2,7 +2,7 @@
 <p align="center">
 <img src="resources/ctf.png">
 <br>
-<i>Writeups Challenges I have solved</i>
+<i>Writeups of Challenges I have solved</i>
 
 </p>
 
