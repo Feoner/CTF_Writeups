@@ -8,7 +8,8 @@ is achieved by triggering a double free on the route4_filer object.
 <br>
  </p>
  
- ##SQL Injection
+ ## SQL Injection
+ <br>
 After crawling the website we notice that if we add an item to our cart the script update-cart.php is called. Here the id= parameter will accept arbitrary input. After some testing we can find that it is vulnerabel to a blind time based sql injeciton. If we supply the url to sqlmap we will be able to enumerate the db to find two users with cleartext passwords
 
 <p align="center">
