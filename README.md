@@ -15,7 +15,7 @@
 # HackTheBox
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
-
+| Precious | Linux | Easy machine with Vulnerabel PDF convertor | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/HTB/Precious/README.md) |
 # Tryhackme
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
