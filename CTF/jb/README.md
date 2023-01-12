@@ -1,4 +1,8 @@
 # JB CTF
+ <p align="center">
+<img src="jb.png">
+<br>
+ </p>
  A simple Linux web server with some lateral movement opportunities as well as some common Linux misconfigurations.
  
  ## NMAP
