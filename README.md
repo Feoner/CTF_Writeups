@@ -25,7 +25,7 @@
 | Name  | Format | Descriptions | Writeup | 
 | ----- | ------ | ------------ | ------- |
 | Nycon | Root to Boot | Vulnerable Online Store | [Writeup](https://github.com/Feoner/CTF_Writeups/tree/main/CTF/Nycon#readme)|
-| JB | Root to Boot | Simple web server with some lateral movement. | [Writeup] (https://github.com/Feoner/CTF_Writeups/blob/main/CTF/jb/README.md) |
+| JB | Root to Boot | Simple web server with some lateral movement. | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/CTF/jb/README.md) |
 
 
 ## License
