@@ -16,11 +16,12 @@
 # HackTheBox
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
-| Precious | Linux | Easy machine with Vulnerabel PDF convertor | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/HTB/Precious/README.md) |
+| Precious | Linux | Easy machine with vulnerabel PDF convertor | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/HTB/Precious/README.md) |
 
 # TryHackMe
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
+| Bounty Hunter | Linux | Easy machine with vulnerable | |
 
 # ProvingGrounds
 | Name  | Format | Descriptions | Writeup | 
