@@ -1,4 +1,8 @@
 # Precious
+ <p align="center">
+<img src="precious.png">
+<br>
+ </p>
 This is a linux mahcine on Hack the Box rated easy. The intial foothold comes from injecting commands into a web page to PDF convertor. Privelage escalation relvoves around exploiting an RCE vulnerablitiy in a dependency.yaml file.
 
 ## NMAP
