@@ -56,5 +56,28 @@ This is an easy box on Proving Grounds Play
  
  ## Lateral Movement
  
- Linpeas shows us that the box 
+ Linpeas shows us that the box has a ssh key that we can read. At the end of the key we see that renu@debian is able to use it. 
  
+ <p align="center">
+<img src="lillyssh.png">
+<br>
+ </p>
+ 
+  <p align="center">
+<img src="sutolilly.png">
+<br>
+ </p>
+ 
+ Now as the user lilly we see we are able to run perl as sudo 
+ 
+  <p align="center">
+<img src="lillysudo.png">
+<br>
+ </p>
+ 
+ If we check GTFObins we see that we can use perl as sudo to elevate our privileges.
+ 
+  <p align="center">
+<img src="root.png">
+<br>
+ </p>
