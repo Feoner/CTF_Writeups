@@ -28,7 +28,7 @@
 # ProvingGrounds
 | Name  | Format | Descriptions | Writeup | 
 | ----- | ------ | ------------ | ------- |
-| Moneybox | Linux | | |
+| Moneybox | Linux | Easy machine using steghide and lateral movement with ssh | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/Proving%20Grounds/Moneybox/README.md) |
 
 # CTF
 | Name  | Format | Descriptions | Writeup | 
