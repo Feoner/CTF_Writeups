@@ -17,7 +17,7 @@
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
 | Precious | Linux | Easy machine with vulnerabel PDF convertor | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/HTB/Precious/README.md) |
-| Shoppy | Linux | Easy machine | | 
+| Shoppy | Linux | Easy machine | [Writeup](https://github.com/Feoner/CTF_Writeups/tree/main/HTB/Shoppy) | 
 | Amabassador | Linux | Medium machine exploiting Grafana and Git | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/HTB/Ambassador/README.md) |
 
 # TryHackMe
