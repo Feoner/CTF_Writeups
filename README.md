@@ -23,7 +23,7 @@
 # TryHackMe
 | Name  | Type | Descriptions | Writeup | 
 | ----- | ---- | ------------ | ------- |
-| Bounty Hunter | Linux | Easy machine with vulnerable | |
+| Bounty Hunter | Linux | Easy machine with vulnerable | [Writeup](https://github.com/Feoner/CTF_Writeups/blob/main/TryHackMe/Bounty%20Hunter/README.md) |
 
 # ProvingGrounds
 | Name  | Format | Descriptions | Writeup | 
